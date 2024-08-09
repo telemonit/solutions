@@ -77,14 +77,6 @@ We offer that device on-premise model to prepare everything for You in house.
 SaaS Subscription Services
 voice communication and incidents notification from monitoring systems
 Codialog GUI + WEB + PC + API for teleoperator.app
-included:
-+ voco.camera
-+ CameraInspect.com
-+ VideoInspect.com
-+ Medianon.com
-+ Salomos.com
-+ vizio.city
-+ vizio.house
 
 
 ### kamera.land
