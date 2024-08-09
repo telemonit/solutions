@@ -4,9 +4,20 @@
 
 We offer complete **hardware**, Software **on-premise** and Software as a Service - **SaaS**
 
+#### Software options include:
+
++ voco.camera
++ CameraInspect.com
++ VideoInspect.com
++ Medianon.com
++ Salomos.com
++ vizio.city
++ vizio.house
+
+  
 ### On-premise
 
-In the **on-premis** model, your organization acquires and installs the software on on-premises data centers. 
+In the **on-premise** model, your organization acquires and installs the software on on-premises data centers. 
 
 + CameraMonit - Software (docker image)
 + InfraMonit - Software (docker image)
@@ -25,15 +36,68 @@ Telemonit host services and applications for your organization to access on dema
 + teleoperator.app - łączy instalatorów kamer i systemów monitoringu, producentów oraz klientów końcowych.
 
 
-#### Software options include:
+| Options         | Description                                                                                                                         | Included Tools                           |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| **Hardware**    | Complete hardware solutions that come with pre-installed and ready-to-use software within your own infrastructure.                  | CameraMind - Hardware and software       |
+| **On-premise**  | Software that is acquired and installed within your organization's own data center infrastructure.                                  | CameraMonit, InfraMonit, Salomos         |
+| **SaaS**        | Cloud-based software model that delivers applications over the internet, allowing organizations to access services on demand.       | surveil.camera, teleoperator.app         |
 
-+ voco.camera
-+ CameraInspect.com
-+ VideoInspect.com
-+ Medianon.com
-+ Salomos.com
-+ vizio.city
-+ vizio.house
+### Software Options
+
+**On-premise**:
+- CameraMonit - Software (docker image)
+- InfraMonit - Software (docker image)
+- Salomos - Local LLM/RAG (docker image)
+
+**SaaS**:
+- surveil.camera - SaaS Subscription Services
+- teleoperator.app - Connects camera and monitoring system installers, manufacturers, and end-users
+
+Software options utilized across both on-premise and SaaS environments:
+- voco.camera
+- CameraInspect.com
+- VideoInspect.com
+- Medianon.com
+- Salomos.com
+- vizio.city
+- vizio.house
+
+
+## CameraMonit.com
+
+| Tool              | Hardware | On-premise | SaaS |
+|-------------------|----------|------------|------|
+| voco.camera       |          |     X      |      |
+| CameraInspect.com |          |     X      |      |
+| VideoInspect.com  |          |     X      |      |
+| Medianon.com      |          |     X      |      |
+| Salomos.com       |          |     X      |      |
+| vizio.city        |          |     X      |      |
+| vizio.house       |          |     X      |      |
+
+## Teleoperator.app
+
+| Tool              | Hardware | On-premise | SaaS |
+|-------------------|----------|------------|------|
+| voco.camera       |          |            |  X   |
+| CameraInspect.com |          |            |  X   |
+| VideoInspect.com  |          |            |  X   |
+| Medianon.com      |          |            |  X   |
+| Salomos.com       |          |            |  X   |
+| vizio.city        |          |            |  X   |
+| vizio.house       |          |            |  X   |
+
+## CameraMind.com
+
+| Tool              | Hardware | On-premise | SaaS |
+|-------------------|----------|------------|------|
+| voco.camera       |    X     |            |      |
+| CameraInspect.com |    X     |            |      |
+| VideoInspect.com  |    X     |            |      |
+| Medianon.com      |    X     |            |      |
+| Salomos.com       |    X     |            |      |
+| vizio.city        |    X     |            |      |
+| vizio.house       |    X     |            |      |
 
 ## Offer
 
