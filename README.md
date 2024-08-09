@@ -21,6 +21,15 @@ Telemonit host services and applications for your organization to access on dema
 + teleoperator.app - łączy instalatorów kamer i systemów monitoringu, producentów oraz klientów końcowych.
 
 
+#### Both options include:
+
++ voco.camera
++ CameraInspect.com
++ VideoInspect.com
++ Medianon.com
++ Salomos.com
++ vizio.city
++ vizio.house
 
 ## Offer
 
