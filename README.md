@@ -16,11 +16,8 @@ In the on-premises model, your organization acquires and installs the software o
 In contrast, SaaS is a cloud-based software model that delivers applications to end users through an internet browser. 
 Telemonit host services and applications for your organization to access on demand.
 
-#### surveil.camera
-SaaS Subscription Services
-
-#### teleoperator.app
-teleoperator.app łączy instalatorów kamer i systemów monitoringu, producentów oraz klientów końcowych.
++ surveil.camera - SaaS Subscription Services
++ teleoperator.app - łączy instalatorów kamer i systemów monitoringu, producentów oraz klientów końcowych.
 
 
 
