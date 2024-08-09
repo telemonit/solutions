@@ -1,46 +1,100 @@
 # [solutions.telemonit.com](http://solutions.telemonit.com)
 
+## Information
+
+We offer on premises and software as a service (SaaS)
+
+### on-premise
+In the on-premises model, your organization acquires and installs the software on on-premises data centers. 
+
++ CameraMonit - Software (docker image)
++ InfraMonit - Software (docker image)
++ CameraMind - Hardware adn Software included and ready to work in Your infrastructure
+
+   
+### SaaS
+In contrast, SaaS is a cloud-based software model that delivers applications to end users through an internet browser. 
+Telemonit host services and applications for your organization to access on demand.
+
+#### surveil.camera
+SaaS Subscription Services
+
+#### teleoperator.app
+teleoperator.app łączy instalatorów kamer i systemów monitoringu, producentów oraz klientów końcowych.
+
+
 
 ## Offer
 
 ### voco.camera
 vo co cam - voice-controlled camera - kamera sterowana głosem
 Wyobraź sobie sterowaną głosem #kamerę i wykrywanie obiektów, na wybranym komunikatorze
+API 
 
-### videoInspect
+### VideoInspect.com
 Inspection of video materials, generating a description of events in the material
+API
 
 ### CameraInspect.com
 Ciągła automatyczna inspekcja kamer oraz naprawa błędów w konfiguracji i komunikacji w sieci
+API
+
+### Salomos
+Local LLM/RAG (Text to SQL) in the form of API in the SaaS model, brain for decision-making in case of incidents
+API + WEB
+
+### Medianon.com
+anonimizacja stream i plików video oraz deanonimizacja dla spraw sądowych
+API + WEB
+
 
 ### CameraMonit.com
+In the on-premis model
 integracja systemów monitorowania w jeden system powiadmiania na różne komunikatory
 Aplikacja desktop i mobilna oraz wersja na serwer NAS
+Codialog GUI with: WEB + PC + MOBILE + NAS
 
 
 ### InfraMonit.com
 Wykrywanie i zgłaszanie incydentów w sieci informatycznej
+Codialog GUI with: WEB + PC + MOBILE + NAS
 
-### Salomos
-Local LLM/RAG (Text to SQL) in the form of API in the SaaS model, brain for decision-making in case of incidents
-   
-### Medianon.com
-anonimizacja stream i plików video oraz deanonimizacja dla spraw sądowych
+
+
+### cameraMind
+Hardware to start cameramonit sytem locally with voice communication and incidents notification from monitoring systems
+We offer that device on-premise model to prepare everything for You in house.
+
+
+### surveil.camera
+SaaS Subscription Services
+voice communication and incidents notification from monitoring systems
+Codialog GUI + WEB + PC + API for teleoperator.app
+included:
++ voco.camera
++ CameraInspect.com
++ VideoInspect.com
++ Medianon.com
++ Salomos.com
++ vizio.city
++ vizio.house
+
+
+### kamera.land
+Online store with software and hardware
+
+
 
 ### teleoperator.app
 teleoperator.app łączy instalatorów kamer i systemów monitoringu, producentów oraz klientów końcowych.
 Aplikacja dla instalatorów kamer i systemów monitoringu, marketplace dla producentów do tworzenia oferta oraz panel dla klientów do zamawiania produktów i usług oraz rozliczania i supportu.
-
-### surveil.camera
-SaaS Subscription Services
-
-
-### kamera.land
-Online store
+Inicdent and service integration and Management system
+API + MOBILE
+Integration with:
++ surveil.camera - online
++ cameraMind - offline
 
 
-### cameraMind
-Local voice communication system with camera monitoring systems
 
 
 ### Dedicated voice systems:
