@@ -3,17 +3,6 @@
 ## Offer
 
 We offer complete **hardware**, Software **on-premise** and Software as a Service - **SaaS**
-
-#### Software options include:
-
-+ voco.camera
-+ CameraInspect.com
-+ VideoInspect.com
-+ Medianon.com
-+ Salomos.com
-+ vizio.city
-+ vizio.house
-
   
 ### On-premise
 
