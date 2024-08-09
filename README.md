@@ -9,6 +9,7 @@ In the on-premises model, your organization acquires and installs the software o
 
 + CameraMonit - Software (docker image)
 + InfraMonit - Software (docker image)
++ Salomos - Local LLM/RAG (docker image)
 + CameraMind - Hardware and Software included and ready to work in Your infrastructure
 
    
