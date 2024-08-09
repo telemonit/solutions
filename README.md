@@ -60,6 +60,111 @@ vizio.rental - vision system for indoor and outdoor rental places such parking a
 
 
 
+## Solutions by Topic
+
+Our Offer categorized by Topic, Need, Industry, and Public Interest:
+
+### Voice-Controlled Systems
+- **voco.camera:** Voice-controlled camera, capable of object detection and integration with communicators.
+- **voco.chat:** Voice-Controlled Chat GUI for desktop and mobile apps.
+- **voco.services:** Voice-Controlled services API to integrate with existing services.
+- **voco.company:** Enables voice-controlled communication within company teams, interacting with AI assistants.
+
+### Video Inspection and Anonymization
+- **videoInspect:** Inspection of video materials with event description generation.
+- **Medianon.com:** Anonymization of video streams and files, with de-anonymization for legal purposes.
+- **CameraInspect.com:** Continuous automatic inspection of cameras and error correction in configuration and network communication.
+
+### Monitoring Systems
+- **CameraMonit.com:** Integration of various monitoring systems into a single notification system, with desktop, mobile, and NAS server versions.
+- **InfraMonit.com:** Detection and reporting of IT network incidents.
+- **Salomos:** Local LLM/RAG providing API for decision-making in case of incidents.
+- **cameraMind:** Local voice communication system integrated with monitoring systems.
+- **surveil.camera:** SaaS subscription services for camera monitoring.
+
+### Vision Systems for Security and Incident Management
+- **vizio.market:** Vision system tailored for marketplaces.
+- **vizio.farm:** Vision system designed for monitoring animals.
+- **vizio.city:** Vision system for outdoor camera setups, including camera towers.
+- **vizio.house:** Vision system for indoor camera setups.
+- **vizio.rental:** Vision system for monitoring both indoor and outdoor rental places, such as parking and apartments.
+
+### Marketplace and Installation Services
+- **teleoperator.app:** Connects camera and monitoring system installers, producers, and end customers with a platform for orders, billing, and support.
+- **kamera.land:** Online store for purchasing camera and monitoring-related products.
+
+
+## Solutions by Need
+
+### Communication and Control
+- Voice-controlled systems for cameras and team communication (voco.camera, voco.chat, voco.services, voco.company).
+- Local voice communication systems with camera monitoring (cameraMind).
+
+### Video Inspection and Reporting
+- Inspection of video materials and event generation (videoInspect).
+- Anonymous and legal-specific video file processing (Medianon.com).
+
+### System Integration and Monitoring
+- Integration of monitoring systems into unified platforms (CameraMonit.com, Salomos).
+- Continuous inspection and error rectification in camera configurations (CameraInspect.com).
+- Incident detection in IT networks (InfraMonit.com).
+
+### Marketplace and Installation Services
+- Linking stakeholders in the camera installation industry (teleoperator.app).
+
+
+## Solutions by Industry
+
+### Surveillance Technology
+- **voco.camera, videoInspect, CameraMonit.com, cameraMind:** Tools for enhanced camera control, video inspection, and streamlined system integration.
+
+### IT and Network Management
+- **InfraMonit.com:** Detecting and reporting IT network incidents.
+- **Salomos:** Providing APIs for decision-making support during incidents.
+
+### Retail and Marketplaces
+- **vizio.market:** Vision system tailored for marketplaces.
+- **surveil.camera, kamera.land:** Platforms and services for camera product sales and subscription-based monitoring solutions.
+
+### Agriculture
+- **vizio.farm:** Vision system for monitoring animal activities and farm operations.
+
+### Urban Management
+- **vizio.city:** Vision system for outdoor camera setups in urban settings, including camera towers.
+
+### Real Estate and Rentals
+- **vizio.house:** Vision system for indoor camera setups.
+- **vizio.rental:** Vision system for both indoor and outdoor rental properties, such as parking lots and apartments.
+
+### Legal and Compliance
+- **Medianon.com:** Anonymization and de-anonymization of video streams and files for legal purposes.
+
+### Technology and IT Services
+- **Salomos, voco.services, CameraInspect.com:** Providing APIs, services, and tools for improved technology integration and management.
+
+### Consumer Products
+- **kamera.land:** An online store for general public consumers looking to purchase surveillance products.
+- **surveil.camera:** Subscription services for personal or small business monitoring needs.
+
+### Installation Services and Marketplaces
+- **teleoperator.app:** Connecting installation professionals, producers, and end customers in a seamless ecosystem for purchasing, installation, and support of camera systems.
+
+
+
+## Solutions by Public Interest
+
+### Consumer Products and Services
+- **voco.camera, surveil.camera, kamera.land:** For consumers needing easy-to-use, voice-controlled camera systems and related products.
+- **teleoperator.app:** Connecting end customers with installers and producers for seamless camera system setup and support.
+
+### Business and Enterprise Solutions
+- **voco.company, voco.chat, voco.services, CameraMonit.com, Salomos:** Tools and platforms for improving enterprise communication, monitoring, and decision-making.
+- **vizio.* series:** Vision systems to enhance security across various industries including retail, agriculture, urban management, and rental properties.
+
+### Privacy and Security Advocacy
+- **Medianon.com:** Ensuring privacy with anonymization services, while providing tools for legal clarity when necessary.
+
+
 
 ## Solutions
 
