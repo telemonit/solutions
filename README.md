@@ -36,11 +36,11 @@ Telemonit host services and applications for your organization to access on dema
 + teleoperator.app - łączy instalatorów kamer i systemów monitoringu, producentów oraz klientów końcowych.
 
 
-| Options         | Description                                                                                                                         | Included Tools                           |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| **Hardware**    | Complete hardware solutions that come with pre-installed and ready-to-use software within your own infrastructure.                  | CameraMind - Hardware and software       |
-| **On-premise**  | Software that is acquired and installed within your organization's own data center infrastructure.                                  | CameraMonit, InfraMonit, Salomos         |
-| **SaaS**        | Cloud-based software model that delivers applications over the internet, allowing organizations to access services on demand.       | surveil.camera, teleoperator.app         |
+| Options         | Description                                                                                        | Included Tools                                |
+|-----------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| **Hardware**    | Complete hardware solutions that come with pre-installed and ready-to-use software                 | CameraMind, InfraMonit - Hardware + Software  |
+| **On-premise**  | Software that is acquired and installed within your organization's own data center infrastructure. | CameraMonit, InfraMonit, Salomos              |
+| **SaaS**        | Cloud-based software model that delivers applications over the internet,  on demand.               | surveil.camera, teleoperator.app              |
 
 ### Software Options
 
