@@ -38,7 +38,7 @@ Telemonit host services and applications for your organization to access on dema
 
 | Options         | Description                                                                                        | Included Tools                                |
 |-----------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| **Hardware**    | Complete hardware solutions that come with pre-installed and ready-to-use software                 | CameraMind, InfraMonit - Hardware + Software  |
+| **Hardware**    | Complete hardware solutions that come with pre-installed and ready-to-use software                 | Hardware + Software = CameraMind, InfraMonit  |
 | **On-premise**  | Software that is acquired and installed within your organization's own data center infrastructure. | CameraMonit, InfraMonit, Salomos              |
 | **SaaS**        | Cloud-based software model that delivers applications over the internet,  on demand.               | surveil.camera, teleoperator.app              |
 
