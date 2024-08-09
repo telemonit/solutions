@@ -75,7 +75,16 @@ Software options utilized across both on-premise and SaaS environments:
 | vizio.city        |          |     X      |      |
 | vizio.house       |          |     X      |      |
 
-## Teleoperator.app
+
+## InfraMonit.com
+
+| Tool              | Hardware | On-premise | SaaS |
+|-------------------|----------|------------|------|
+| voco.chat         |          |     X      |      |
+| Salomos.com       |          |     X      |      |
+
+
+## surveil.camera
 
 | Tool              | Hardware | On-premise | SaaS |
 |-------------------|----------|------------|------|
@@ -87,17 +96,24 @@ Software options utilized across both on-premise and SaaS environments:
 | vizio.city        |          |            |  X   |
 | vizio.house       |          |            |  X   |
 
+
+## Teleoperator.app
+
+| Tool              | Hardware | On-premise | SaaS |
+|-------------------|----------|------------|------|
+| surveil.camera    |          |            |  X   |
+| CameraMonit.com   |          |            |  X   |
+| InfraMonit.com    |          |            |  X   |
+
+
+
 ## CameraMind.com
 
 | Tool              | Hardware | On-premise | SaaS |
 |-------------------|----------|------------|------|
-| voco.camera       |    X     |            |      |
-| CameraInspect.com |    X     |            |      |
-| VideoInspect.com  |    X     |            |      |
-| Medianon.com      |    X     |            |      |
-| Salomos.com       |    X     |            |      |
-| vizio.city        |    X     |            |      |
-| vizio.house       |    X     |            |      |
+| CameraMonit.com   |    X     |            |      |
+| InfraMonit.com    |    X     |            |      |
+
 
 ## Offer
 
