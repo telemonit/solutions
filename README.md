@@ -1,15 +1,19 @@
 # [solutions.telemonit.com](http://solutions.telemonit.com)
 
-## Information
+## Offer
 
-We offer on premises and software as a service (SaaS)
+We offer complete **hardware**, Software **on-premise** and Software as a Service - **SaaS**
 
-### on-premise
-In the on-premises model, your organization acquires and installs the software on on-premises data centers. 
+### On-premise
+
+In the **on-premis** model, your organization acquires and installs the software on on-premises data centers. 
 
 + CameraMonit - Software (docker image)
 + InfraMonit - Software (docker image)
 + Salomos - Local LLM/RAG (docker image)
+
+### Hardware
+
 + CameraMind - Hardware and Software included and ready to work in Your infrastructure
 
    
@@ -21,7 +25,7 @@ Telemonit host services and applications for your organization to access on dema
 + teleoperator.app - łączy instalatorów kamer i systemów monitoringu, producentów oraz klientów końcowych.
 
 
-#### Both options include:
+#### Software options include:
 
 + voco.camera
 + CameraInspect.com
